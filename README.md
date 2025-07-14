@@ -77,7 +77,7 @@ _Frontend will be available at `http://localhost:5173`_
 
 ## 🪪 License
 
-This project is open-source and distributed under the [MIT License](./LICENCE.md).
+This project is open-source and distributed under the [MIT License](./LICENSE.md).
 
 ## 🔗 Project Tracking
 
