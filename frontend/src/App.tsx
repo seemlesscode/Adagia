@@ -1,4 +1,5 @@
 import { Button, Container } from "@mantine/core";
+import TestFirestore from "./pages/TestFirestore";
 
 export default function App() {
   return (
@@ -7,6 +8,7 @@ export default function App() {
       <Button variant="filled" color="indigo">
         Button
       </Button>
+      <TestFirestore />
     </Container>
   );
 }
